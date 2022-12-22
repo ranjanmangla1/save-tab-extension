@@ -12,8 +12,8 @@ Save Tab Extension can be handy for you.
 
 # How to install?
 
-1. Download the repo as a zip file and extract in your system.
+1. Download the repo as a zip file and extract
 2. Open your browser and click on extensions and then click on manage extensions
 3. Turn on the developer options and click on 'Load Unpacked'
-4. Select the folder 
+4. Select the unzipped folder 
 5. Enjoy your Extension. You have successfully installed it!
