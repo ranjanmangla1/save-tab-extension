@@ -6,7 +6,7 @@ Need some extra area to save your favorite links?
 
 Save Tab Extension can be handy for you.
 
-<a href = "https://ranjanmangla1.github.io/save-tab-extension/">Demo</a>
+<a href = "https://ranjanmangla1.github.io/save-tab-extension/">See Demo</a>
 
 ![image dark mode](https://github.com/ranjanmangla1/save-tab-extension/blob/main/screenshots/light.png)
 
