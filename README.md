@@ -1,4 +1,4 @@
-# save-tab-extension
+# Save-Tab-Extension
 
 Your Browser's Bookmark tab ran out of visible space?
 
@@ -9,3 +9,11 @@ Save Tab Extension can be handy for you.
 ![image light mode](https://github.com/ranjanmangla1/save-tab-extension/blob/main/screenshots/dark.png)
 
 ![image dark mode](https://github.com/ranjanmangla1/save-tab-extension/blob/main/screenshots/light.png)
+
+# How to install?
+
+1. Download the repo as a zip file and extract in your system.
+2. Open your browser and click on extensions and then click on manage extensions
+3. Turn on the developer options and click on 'Load Unpacked'
+4. Select the folder 
+5. Enjoy your Extension. You have successfully installed it!
